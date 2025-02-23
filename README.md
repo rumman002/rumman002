@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://codersrumman.me/portfolio/](https://codersrumman.me/portfolio/)
+- 👨‍💻 All of my projects are available at https://fiverrwpexpert.com/projects/
 
 - 📝 I regularly write articles on [https://codersrumman.me/blog/](https://codersrumman.me/blog/)
 
