@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at https://fiverrwpexpert.com/projects/
 
-- 📝 I regularly write articles on [https://codersrumman.me/blog/](https://codersrumman.me/blog/)
+- 📝 I regularly write articles on https://fiverrwpexpert.com/blog/
 
 - 💬 Ask me about **Wordpress**
 
 - 📫 How to reach me **krumman050@gmail.com**
 
-- 📄 Know about my experiences [https://codersrumman.me/resume/](https://codersrumman.me/resume/)
+- 📄 Know about my experiences https://fiverrwpexpert.com/about-us/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
