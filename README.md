@@ -1,19 +1,19 @@
 [![MasterHad](https://media.licdn.com/dms/image/v2/D5616AQHi6ok-BfDrOg/profile-displaybackgroundimage-shrink_350_1400/B56ZjBQk_sHcAo-/0/1755589006145?e=1758758400&v=beta&t=b2T6USG_nhP2pXydqtIExV2JWUYGd2HnktIkQnobq_k)](https://codersrumman.me/)
-<h1 align="center">Hi 👋, I'm Rumman Khan</h1>
-<h3 align="center">I'M Programmer & Full-Stack Web Developer from Bangladesh.I am an expert at creating websites and designing them to look professional. I particularly specialize in using WordPress. I can make a website for your business, portfolio, company, online store, or blog. I can create a special, neat and cool picture design for you to use.</h3>
+<h1 align="center">Hi 👋, This is M.H. Rumman Khan</h1>
+<h3 align="center">I’M Rumman Mahmud a Web Designer and WordPress Expert from Bangladesh. I am an expert at creating websites and designing them to look professional. I particularly specialize in using WordPress Elementor. I can make a website for your business, portfolio, company, online store or blog. -Allow me to assist you in realizing your web vision!</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Fiverr, Upwork, Freelancer.com**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at https://fiverrwpexpert.com/projects/
+- 👨‍💻 All of my projects are available at https://khan.mrsignshop.com/
 
-- 📝 I regularly write articles on https://fiverrwpexpert.com/blog/
+- 📝 I regularly write articles on https://khan.mrsignshop.com/blog/
 
 - 💬 Ask me about **Wordpress**
 
-- 📫 How to reach me **krumman050@gmail.com**
+- 📫 How to reach me **fiverrmahmud050@gmail.com**
 
 - 📄 Know about my experiences https://fiverrwpexpert.com/about-us/
 
